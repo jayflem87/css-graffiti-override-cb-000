@@ -8,6 +8,7 @@
 
 #wall .tab-3 {
   display: none;
+  z-index: -5;
 }
 
 #wall .tab-4 {
