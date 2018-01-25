@@ -1,1 +1,27 @@
 /* write your override styles here */
+
+
+#wall .tab-2 {
+  display: none;
+  z-index: -5;
+}
+
+#wall .tab-3 {
+  display: none;
+}
+
+#wall .tab-4 {
+  display: none;
+}
+
+#wall .tab-5 {
+  display: none;
+}
+
+#wall .tab-6 {
+  display: none;
+}
+
+#wall .tab-7 {
+  display: none;
+}
